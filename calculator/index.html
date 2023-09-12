@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+    <link rel="stylesheet" href="./app.css" />
+    <script src="./test-app.js"></script>
+  </head>
+
+  <body>
+    <div>
+      <div>
+        <input type="text" id="search" placeholder="0" />
+      </div>
+      <div>
+        <button class="same" onclick="clearInput()">C</button>
+        <button class="same" onclick="display('%')">%</button
+        ><button class="same" onclick="display('')">D</button
+        ><button class="same" onclick="display('/')">/</button>
+      </div>
+      <div>
+        <button class="same" onclick="display('7')">7</button
+        ><button class="same" onclick="display('8')">8</button
+        ><button class="same" onclick="display('9')">9</button
+        ><button class="same" onclick="display('X')">X</button>
+      </div>
+      <div>
+        <button class="same" onclick="display('4')">4</button
+        ><button class="same" onclick="display('5')">5</button
+        ><button class="same" onclick="display('6')">6</button
+        ><button class="same" onclick="display('-')">-</button>
+      </div>
+      <div>
+        <button class="same" onclick="display('1')">1</button
+        ><button class="same" onclick="display('2')">2</button
+        ><button class="same" onclick="display('3')">3</button
+        ><button class="same" onclick="sum()">+</button>
+      </div>
+      <div>
+        <button class="same" onclick="display('00')">00</button
+        ><button class="same" onclick="display('0')">0</button
+        ><button class="same" onclick="display('.')">.</button
+        ><button class="same" onclick="final()">=</button>
+      </div>
+    </div>
+  </body>
+</html>

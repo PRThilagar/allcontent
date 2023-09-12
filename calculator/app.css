@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.same {
+    border: 2px solid grey;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    margin: 7px;
+    padding: 10px;
+}
+.same:hover{
+    color: greenyellow;
+}
