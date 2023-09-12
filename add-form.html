@@ -13,7 +13,7 @@
     />
     <script src="./app.js"></script>
   </head>
-  <body onload="loadData()">
+  <body>
     <header>
       <div id="header">
         <div>
@@ -63,15 +63,37 @@
         </div>
       </div>
     </section>
-    <a href="./add-form.html">Add</a>
-    <main class="main">
-      <div class="side-nav">Side Nav</div>
-      <div id="grid" class="grid-layout"></div>
-    </main>
-    <div id="get">
+    <a href="./index.html">Back</a>
+    <main class="main"></main>
+    <!-- <div id="get">
       <button onclick="call()">ADD</button>
+    </div> -->
+    <div class="first">
+      <div class="input-group">
+        <label for="id">Title:</label>
+        <input type="text" id="one" />
+      </div>
+      <div class="input-group">
+        <label for="price">Price:</label>
+        <input type="text" id="price" />
+      </div>
+      <div class="input-group">
+        <label for="description">Description:</label>
+        <input type="text" id="des" />
+      </div>
+      <div class="input-group">
+        <label for="url">Enter an https:// URL:</label>
+        <input type="url" id="url" />
+      </div>
+      <div class="input-group">
+        <label for="category">Category:</label> <input type="text" id="cat" />
+      </div>
+      <div>
+        <button class="clear" onclick="remove()">Clear</button>
+        <button class="save" onclick="post()">Save</button>
+      </div>
     </div>
-
+    ;
     <footer>
       <div class="bottom">
         <div class="footer-content">

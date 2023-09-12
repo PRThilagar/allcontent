@@ -4,7 +4,7 @@ body{
 * {
     box-sizing: border-box;
 }
-.header{
+#header{
     display: flex;
     justify-content: space-between;
     display: flex;
@@ -154,44 +154,89 @@ body{
     background: #555;
   }
 
-  .card {
-    width: 100%;
-    height: 450px;
-    background-color: white !important;
-    box-shadow: 0px 3px 10px #00000029;
-    border-radius: 5px;
-    
-}
+.card {
+  width: 200px;
+  height: 300px;
+  /* UI Properties */
+  box-shadow: 0px 3px 10px #00000029;
+  border-radius: 5px;
+  opacity: 0.8;
   
-  .card-img {
-    height: 270px;
-  }
+}
 
-  .card-img > img {
-    height: 270px;
-    width: 100%;
-    object-fit: fill;
-  }
-  .item-name{
-    text-align: center;
-    padding-top: 10px;
-    color: #2D4263;
-  }
-  .strength{
-    text-align: center;
-    padding-top: 11px;
-  }
-  .price{
-    text-align: center;
-    padding-top: 15px;
-  }
-  .add{
-    padding: 4px 34px;
-    text-transform: uppercase;
-    background-color: #2D4263;
-    color: white;
-  }
-  .btn-container{
-    box-sizing: border-box;
-    text-align: center;
-  }
+.img-container {
+  padding: 24px 32px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #F5F7FC 0% 0% no-repeat padding-box;
+  margin-bottom: 16px;
+}
+.detail-container {
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.item-img {
+  max-width: 100%;
+}
+.item-name {
+  color: #2D4263;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 8px;
+
+}
+.item-sub-name {
+  color: #2D4263;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 8px;
+
+}
+
+.item-price-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.item-final-price {
+  color: #2D4263;
+  font-size: 14px;
+  font-weight: 700;
+  margin-right: 8px;
+}
+
+.item-price {
+  text-decoration: line-through;
+  font-size: 12px;
+}
+
+.first{
+  margin-left:30%;
+  width: 500px;
+  height: 20vh auto;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+.input-group{
+  display: flex;
+  flex-direction: column; 
+  margin-bottom: 10px;
+}
+
+.save{
+  color: white ;
+  background-color: green;
+  border: 1px solid black;
+  margin-left: 90%;
+  font-size: 15px;
+}
