@@ -1,0 +1,20 @@
+[
+  {
+    "name": "thilagar",
+    "password": 12345678,
+    "mobno": 764452654,
+    "isMarried": false
+  },
+  {
+    "name": "Vickey",
+    "password": 12345678,
+    "mobno": 676545334,
+    "isMarried": true
+  },
+  {
+    "name": "Divya",
+    "password": 12345678,
+    "mobno": 977645334,
+    "isMarried": true
+  }
+]

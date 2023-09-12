@@ -1,0 +1,48 @@
+.first{
+    display: flex;
+    justify-content: space-around;
+}
+
+.red{
+    color: red;
+    font-size: 30px;
+}
+.dit{
+    font-size: 30px;
+    margin-left: -65px;
+}
+.btn1{
+    font-size: 16px;
+    border-radius: 87px;
+    border: 1px solid grey;
+    padding: 5px;
+}
+.btn2{
+    font-size: 20px;
+    border-radius: 87px;
+    padding: 3px 15px;
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+}
+.chev{
+    font-size: 30px;
+}
+.search{
+    margin-top: 10px;
+}
+.heading{
+    color: grey;
+    font-size: 10px;
+}
+.side{
+    margin-top: 10px;
+    border: 1px solid black;
+    width: 15%;
+    padding: 20px;
+    color: white;
+    border-color: red;
+}
+.bar{
+    margin-bottom: 8px;
+}

@@ -1,0 +1,253 @@
+[
+  {
+    "question": "How many elements are in the periodic table?",
+    "option": [
+      {
+        "displayvalue": 118,
+        "isValidAnswer": true,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 218,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 312,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 112,
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "question": "What sports car company manufactures the 911?",
+    "option": [
+      {
+        "displayvalue": "porsche",
+        "isValidAnswer": true,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Ferrari",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Lamborghini",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Mercedes",
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "option": [
+      {
+        "displayvalue": "saturn",
+        "isValidAnswer": true,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Venus",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Pluto",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Mars",
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "question": "How many bones do we have in an ear?",
+    "option": [
+      {
+        "displayvalue": 5,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 4,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 3,
+        "isValidAnswer": true,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 2,
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "question": "What is the world's fastest bird?",
+    "option": [
+      {
+        "displayvalue": "The Peregrine Falcon",
+        "isValidAnswer": true,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Sparrow",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Crow",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Peacock",
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "question": "What country has the highest life expectancy? ",
+    "option": [
+      {
+        "displayvalue": "China",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "India",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": " Hong Kong",
+        "isValidAnswer": true,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Usa",
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "question": "How many minutes are in a full week?",
+    "option": [
+      {
+        "displayvalue": 20000,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 4000,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 12000,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 10080,
+        "isValidAnswer": true,
+        "isSelected": false
+      }
+    ]
+  },
+
+  {
+    "question": "What artist has the most streams on Spotify? ",
+    "option": [
+      {
+        "displayvalue": "Anirudh",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Drake",
+        "isValidAnswer": true,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Alan",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Dhanush",
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "option": [
+      {
+        "displayvalue": 2,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 3,
+        "isValidAnswer": true,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 5,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 4,
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "question": "What phone company produced the 3310? ",
+    "option": [
+      {
+        "displayvalue": "Nokia",
+        "isValidAnswer": true,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Samsung",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Sony",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Redmi",
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  }
+]

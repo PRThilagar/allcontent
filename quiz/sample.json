@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How many elements are in the periodic table?",
+    "option": [
+      {
+        "displayvalue": 118,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 218,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 312,
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": 112,
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "question": "What sports car company manufactures the 911?",
+    "option": [
+      {
+        "displayvalue": "porsche",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Ferari",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Lamborghini",
+        "isValidAnswer": false,
+        "isSelected": false
+      },
+      {
+        "displayvalue": "Mercedes",
+        "isValidAnswer": false,
+        "isSelected": false
+      }
+    ]
+  }
+]

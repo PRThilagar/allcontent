@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    background-image:
+   url("https://cdn.shopify.com/s/files/1/0173/7644/4470/articles/delectable-chocolate-mousse.jpg?v=1631098933");
+   background-size: cover;
+}
+.second{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 23%;
+    margin-left: 970px;
+    margin-top: 16px;
+    font-size: 29px;
+}
+ .btn1:hover{
+    color:#FFC300;
+ }
+ .btn2:hover{
+    color:#FFC300;
+ }
+ .btn3:hover{
+    color:#FFC300;
+ }
+ .btn4:hover{
+    color:#FFC300;
+ }
+ .btn5:hover{
+    color:#FFC300;
+ }
+ .third{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    font-family: system-ui;
+    margin-top: 24px;
+ }
+ .three{
+    font-size: 20px;
+    color: #FFC300;
+ }
+ .one,.two,.four,.five{
+    font-size: 20px;
+    color: white;
+}
+.one:hover{
+    color: #FFC300;
+}
+.two:hover{
+    color: #FFC300;
+}
+.four:hover{
+    color: #FFC300;
+}
+.five:hover{
+    color: #FFC300;
+}
+.fourth{
+    color: #FFC300;
+    font-size: 20px;
+    margin-top: 35px;
+    margin-left: 42px;
+}
+.fifth{
+    margin-top: 280px;
+    width: 37%;
+    margin-left: 350px;
+    ;
+}

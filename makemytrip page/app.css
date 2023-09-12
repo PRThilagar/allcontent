@@ -1,0 +1,65 @@
+body{
+    background-color:#2D4263 ;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.my{
+    background-color: red;
+    border: 1px solid red;
+    padding: 4px;
+    border-radius: 3px;
+}
+.details{
+    background-color: cyan;
+    border: 1px solid aqua;
+    padding: 5px;
+    border-radius: 3px;
+}
+.offers{
+    font-size: 8px;
+    color: beige;
+}
+.two{
+    display: flex;
+    justify-content: space-evenly;
+    color: grey;
+    border: 1px solid white;
+    margin: 30px 168px;
+    background-color: white;
+    padding: 48px;
+    border-radius: 20px;
+
+}
+.trips{
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+}
+ .three{ 
+    display: flex;
+    justify-content: space-around;
+    color: grey;
+    
+} 
+.parent{
+    background-color: white;
+    width: 80%;
+    margin-left: 88px;
+    padding: 33px;
+    margin-top: -67px;
+    border-radius: 20px;
+}
+.from{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 16px;
+    color: grey;
+}
+.city{
+    font-size: 42px;
+    color: black;
+}
+}

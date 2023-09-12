@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    font-size: 35px;
+}
+
+.logo{
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+    color: darkslategrey;
+}
+.flag{
+    font-size: 25px;
+}
+.down{
+    display: flex;
+    justify-content: center;
+    margin-left: 249px;
+    margin-top: -20px;
+    font-size: 45px;
+    font-family: 'Satisfy', cursive;
+}

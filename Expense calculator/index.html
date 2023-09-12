@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Expense Calculator</title>
+    <link src="stylesheet" href="./app.css" />
+    <script src="./app.js"></script>
+  </head>
+  <body>
+    <div id="income">
+      <label for="income">Income:</label>
+      <input type="number" id="num" onblur="showDiv()" />
+      <!-- <button onclick="showDiv()" id="btn">ok</button> -->
+    </div>
+    <div style="display: none" id="second">
+      <div>
+        <label for="tansaction-type">Transaction type:</label>
+        <select id="pass">
+          <option value="credit">Credit</option>
+          <option value="debit">Debit</option>
+        </select>
+      </div>
+      <div>
+        <label for="amount">Amount:</label> <input type="number" id="amt" />
+      </div>
+      <div>
+        <label for="des">Description</label> <input type="text" id="des" />
+      </div>
+      <div>
+        <button id="make" onclick="plus()">Save</button>
+      </div>
+      <table id="customers">
+        <thead>
+          <tr>
+            <th>TOTAL INCOME</th>
+            <th>TRANSACTION TYPE</th>
+            <th>AMOUNT</th>
+            <th>DESCRIPTION</th>
+            <th>ACTION</th>
+            <th>SELECT</th>
+            <th>BALANCE</th>
+          </tr>
+        </thead>
+        <tbody id="one"></tbody>
+      </table>
+    </div>
+  </body>
+</html>
